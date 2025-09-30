@@ -1,8 +1,11 @@
-ML1: It is clear that accurate predictions of energy consumption for a given building as a func3on of its characteristics can help policy makers target renovation efforts in order to maximise emissions reductions.
+Machine Learning Project: It is clear that accurate predictions of energy consumption for a given building as a func3on of its characteristics can help policy makers target renovation efforts in order to maximise emissions reductions.
 The data we will be using comes from the Lawrence Berkeley National Laboratory (Berkeley Lab) and the work to be carried out consists of analysing differences in the energy efficiency of buildings in order to build one or more models to predict the energy consumption of buildings.
 To do this, the data provided describes the characteris3cs of the buildings and the clima3c and meteorological variables for the regions in which the buildings are located.
 
-ML2: PetFinder.my has been Malaysia's leading animal protection platform since 2008, with a large database. PetFinder works closely with animal lovers, media, businesses and global organizations to improve animal welfare.
+Pet Adoptability ML2: PetFinder.my has been Malaysia's leading animal protection platform since 2008, with a large database. PetFinder works closely with animal lovers, media, businesses and global organizations to improve animal welfare.
 Pet adoption rates are closely linked to the metadata associated with their online profiles, such as descriptive text and photographic features.
 In this project I developed algorithms that predict pet adoptability - how quickly an animal will be adopted.
+
+ML Spotify Project: A Machine Learning project that analyzes Spotify data for two tasks: 1. Predicting song's popularity through the use of regression models.
+2. Recommend 5 songs based on user's favourite songs.
 
